@@ -1,5 +1,5 @@
 University Java Projects
-This repository contains my coursework for the Software and Programming II module, showcasing various projects completed in Java for the 2023/24 academic year.
+This repo contains code for the Software and Programming II module, showcasing 2 projects completed in Java for the 2023/24 academic year.
 
 Projects Overview
 1. Self Storage Unit
@@ -26,7 +26,7 @@ Code Structure
 - CallingCard.java, IDCard.java, DriverLicence.java: Subclasses of Card with additional attributes and specialized methods.
 - Wallet.java: Contains methods for adding and formatting cards.
 - WalletTester.java: Tests the functionality of Wallet and the card subclasses.
-
+----------------------------------------------------------------------------------
 Project Highlights
 Object-Oriented Design: Applied inheritance, polymorphism, and encapsulation principles.
 JavaDoc Documentation: Thorough documentation of classes, methods, and attributes.
